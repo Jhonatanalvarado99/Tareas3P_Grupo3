@@ -1,0 +1,17 @@
+commit bb7a6d167702abcdb73b4a4fce04d749fcdaa23a
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Mon Feb 12 11:25:54 2024 -0600
+
+    programa terminado
+
+commit debe2c6b878927a2de84dc0d2b071470d99056cf
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Mon Feb 12 11:12:34 2024 -0600
+
+    Primer programa
+
+commit 664e2ac6a38573839036e67b24c8406b60978a60
+Author: Jhonatan Alvarado <123187692+Jhonatanalvarado99@users.noreply.github.com>
+Date:   Mon Feb 12 11:02:13 2024 -0600
+
+    Initial commit
